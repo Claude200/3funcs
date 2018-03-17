@@ -1,2 +1,2 @@
-# map
-C#版本的map映射函数
+# Reduce
+C#版本的reduce函数
